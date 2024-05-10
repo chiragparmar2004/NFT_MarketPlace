@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 contract NFTMarketPlace is ERC721URIStorage {
     uint256 private _tokenIds;
     address payable owner;
-    uint256 public listPrice = 3.01 ether;
+    uint256 public listPrice = 0.01 ether;
     uint256[] public allListedTokens;
 
     struct ListedToken {
