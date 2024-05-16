@@ -61,7 +61,7 @@ Ensure you have the following installed on your machine:
 
 ### Demo
 
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the demo video]](https://www.canva.com/design/DAGFY9adVQs/6JAxwj1n0bPyAOvUrD6CTg/edit?utm_content=DAGFY9adVQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Contributing
 
